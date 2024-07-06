@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sazey1
-- 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on open source software (after I learn python)
-- 📫 How to reach me: just email me
+- 💞️ I’m looking to collaborate on open-source software
+- 📫 How to reach me: sachin.kumar@170195@gmail.com
 
 <!---
 sazey1/sazey1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
