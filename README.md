@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sazey1
+- 👋 Hi, I’m @sachin kumar
 - 💞️ I’m looking to collaborate on open-source software
 - 📫 How to reach me: sachin.kumar@170195@gmail.com
 
